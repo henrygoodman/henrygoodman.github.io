@@ -5,7 +5,7 @@ Hello! I'm **Henry Goodman**, a professional Software Engineer from Sydney, with
 ## My Current Role
 
 I’m a Software Engineer at Toshiba Australia, working on full-stack embedded applications for enterprise solutions.
-I focus on creating software that s on multi-function printers that streamlines office workflows.
+I focus on creating graphical applications that runs on multi-function printers to streamlines office workflows.
 
 ## My Main Project: [Woolies Watcher](https://woolieswatcher.com)
 
@@ -13,8 +13,8 @@ I focus on creating software that s on multi-function printers that streamlines 
 This is my primary side project, hosted at the **[Woolies Watcher GitHub Repository](https://github.com/henrygoodman/woolies-watcher)**.
 
 - **Built with**:
-  - Backend: Express and PostgreSQL
-  - Frontend: React and Tailwind CSS
+  - Backend: Express/TypeScript/Postgres/Redis
+  - Frontend: Next/React/Tailwind
   - Deployed via Docker on DigitalOcean.
 
 Check out my full list of projects on my [GitHub profile](https://github.com/henrygoodman).
