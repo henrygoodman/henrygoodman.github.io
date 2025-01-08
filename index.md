@@ -2,18 +2,9 @@
 
 Hello! I'm **Henry Goodman**, a professional **Software Engineer** from Sydney, with experience in **full-stack development** and a passion for creating impactful and efficient software solutions.
 
-## About Me
-
-- **Role**: Full-Stack Developer
-- **Expertise**:
-  - Frontend: React, Next.js, Tailwind CSS
-  - Backend: Go, Node.js, Python
-  - Database: PostgreSQL, MongoDB
-  - DevOps: Docker, Jenkins, Gitea
-
 ## My Current Role
 
-I’m a mid-Level Software Engineer, working on full-stack embedded applications for enterprise solutions.
+I’m a mid-Level Software Engineer at Toshiba Australia, working on full-stack embedded applications for enterprise solutions.
 I focus on creating reliable and efficient software that powers multifunction devices and streamlines workflows.
 
 ## My Main Project: [Woolies Watcher](https://woolieswatcher.com)
