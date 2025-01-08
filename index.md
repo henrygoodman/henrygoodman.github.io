@@ -4,8 +4,8 @@ Hello! I'm **Henry Goodman**, a professional Software Engineer from Sydney, with
 
 ## My Current Role
 
-I’m a Software Engineer at Toshiba Australia, working on full-stack embedded applications for enterprise solutions.
-I focus on creating graphical applications that runs on multi-function printers to streamlines office workflows.
+I’m a Software Engineer at Toshiba Australia, specializing in full-stack development for embedded applications.
+I mainly focus on creating graphical interfaces for multifunction printers that streamline office workflows and enhance enterprise productivity.
 
 ## My Main Project: [Woolies Watcher](https://woolieswatcher.com)
 
