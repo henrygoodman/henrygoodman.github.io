@@ -27,7 +27,7 @@ It’s a fun way to sharpen my problem-solving skills and explore new languages.
 Here’s what I’ve done so far:
 
 - **2023**: Used **Rust** to focus on efficient, low-level solutions.
-- **2024**: Tackled the challenges in **Go**, exploring concurrency and performance.
+- **2024**: Used **Go**, exploring concurrency and performance.
 
 Each year, I look forward to the new puzzles and the chance to learn something new.
 
