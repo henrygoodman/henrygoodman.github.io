@@ -1,11 +1,11 @@
 # Welcome
 
-Hello! I'm **Henry Goodman**, a professional **Software Engineer** from Sydney, with experience in **full-stack development** and a passion for creating impactful and efficient software solutions.
+Hello! I'm **Henry Goodman**, a professional Software Engineer from Sydney, with experience in full-stack development and a passion for creating impactful and efficient software solutions.
 
 ## My Current Role
 
-I’m a mid-Level Software Engineer at Toshiba Australia, working on full-stack embedded applications for enterprise solutions.
-I focus on creating reliable and efficient software that powers multifunction devices and streamlines workflows.
+I’m a Software Engineer at Toshiba Australia, working on full-stack embedded applications for enterprise solutions.
+I focus on creating software that s on multi-function printers that streamlines office workflows.
 
 ## My Main Project: [Woolies Watcher](https://woolieswatcher.com)
 
@@ -21,7 +21,7 @@ Check out my full list of projects on my [GitHub profile](https://github.com/hen
 
 ## Advent of Code
 
-I’m a big fan of **[Advent of Code](https://adventofcode.com)**—a series of programming puzzles released every December.
+I’m a big fan of **[Advent of Code](https://adventofcode.com)** - a series of programming puzzles released every December.
 It’s a fun way to sharpen my problem-solving skills and explore new languages.
 
 Here’s what I’ve done so far:

@@ -1,0 +1,73 @@
+remote_theme: pages-themes/dinky@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: "Henry Goodman"
+description: "Full-Stack Software Engineer"
+baseurl: "" # Leave blank unless hosting the site in a subdirectory
+url: "https://henrygoodman.github.io" 
+
+# Social links
+twitter_username: henrygoodman_dev
+github_username: henrygoodman
+linkedin_username: henry-goodman-9b7383225
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM # GitHub Flavored Markdown
+  auto_ids: true
+  syntax_highlighter_opts:
+    default_lang: "plaintext"
+
+# Exclude files or folders from the site build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+# Defaults for posts/pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Permalinks for blog posts
+permalink: /:year/:month/:day/:title/
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+
+# Customization
+author: "Henry Goodman"
+email: contact@henrygoodman.dev
+projects:
+  - name: "Woolies Watcher"
+    url: "https://woolieswatcher.com"
+    description: "A real-time grocery tracking tool with price alerts and historical data."
+  - name: "TTF Parser"
+    url: "https://github.com/henrygoodman/ttf-parser"
+    description: "A Rust-based project exploring the TTF file format."
+
+advent_of_code:
+  - year: "2023"
+    language: "Rust"
+    description: "Focused on efficient, low-level solutions."
+  - year: "2024"
+    language: "Go"
+    description: "Explored concurrency and performance optimization."
+
+# Additional info
+fun_facts:
+  - "Passionate about solving Advent of Code puzzles every year."
+  - "Occasional contributor to the Gitea project."
+  - "Longtime Rugby player and tech enthusiast."
+
